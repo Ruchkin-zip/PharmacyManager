@@ -4643,3 +4643,18 @@
 2021-06-05 20:48:04 INFO  [AWT-EventQueue-0]: loading database
 2021-06-05 20:48:05 INFO  [AWT-EventQueue-0]: a drug was created without specifying fields
 2021-06-05 20:48:05 INFO  [AWT-EventQueue-0]: loading database id 19 completed
+2021-06-10 23:13:50 INFO  [main]: HHH000204: Processing PersistenceUnitInfo [
+	name: Database persistence
+	...]
+2021-06-10 23:13:51 INFO  [main]: HHH000412: Hibernate Core {5.3.7.Final}
+2021-06-10 23:13:51 INFO  [main]: HHH000206: hibernate.properties not found
+2021-06-10 23:13:52 INFO  [main]: HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2021-06-10 23:13:52 WARN  [main]: HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2021-06-10 23:13:52 INFO  [main]: HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/pharmacydb2? serverTimezone=Europe/Moscow]
+2021-06-10 23:13:52 INFO  [main]: HHH10001001: Connection properties: {password=****, user=root}
+2021-06-10 23:13:52 INFO  [main]: HHH10001003: Autocommit mode: false
+2021-06-10 23:13:52 INFO  [main]: HHH000115: Hibernate connection pool size: 20 (min=1)
+2021-06-10 23:13:54 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2021-06-10 23:13:55 INFO  [main]: a drug was created without specifying fields
+2021-06-10 23:13:55 INFO  [main]: a pharmacy without an address was created
+2021-06-10 23:13:58 INFO  [main]: The App is running
